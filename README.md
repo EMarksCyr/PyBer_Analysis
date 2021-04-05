@@ -22,12 +22,12 @@ Upon grouping the ride-share data by city type, it becomes apparent that each ma
   
   The difference in the number of total drivers falls in line with usage in that there are much fewer drivers in rural cities (2.6%) while the majority of drivers are active in urban areas(81%). This correlational data cannot determine causation. It may indicate that the lack of demand for rides (as shown by the smaller number of total rides) has led to fewer drivers. Alternatively, the lack of available drivers may have caused the lower engagement through a lack of available services. 
  
- ![Rides by city](/Analysis/Rides_by_city)
- ![Drivers by city](/Analysis/drivers_by_citytype)
+ ![Rides by city](/Analysis/Rides_by_city.PNG)
+ ![Drivers by city](/Analysis/drivers_by_citytype.PNG)
  
 As expected, based on the trend in total rides and drivers across city types, the total of fares accumulated in rural cities was much lower (6.8%), and the majority of fares were earned in urban cities (63%).
 
- ![Fares by city](/Analysis/Fares_by_citytype)
+ ![Fares by city](/Analysis/Fares_by_citytype.PNG)
 
 While the trend across city types remains consistent, the difference between types shrunk when measuring total fares; this is explained by the increased average fare per ride and per driver that we see in rural cities. In the case of these measures, average fares in urban cities come out at the bottom, and suburban fares fall easily in the middle.
  
