@@ -29,7 +29,9 @@ As expected, based on the trend in total rides and drivers across city types, th
 
  ![Fares by city](/Analysis/Fares_by_citytype_resized.PNG)
 
-While the trend across city types remains consistent, the difference between types shrunk when measuring total fares; this is explained by the increased average fare per ride and per driver that we see in rural cities. In the case of these measures, average fares in urban cities come out at the bottom, and suburban fares fall easily in the middle.
+While the trend across city types remains consistent, the difference between types shrunk when measuring total fares; this is explained by the increased average fare per ride and per driver that we see in rural cities. 
+
+In the case of average fare per ride, fares in urban cities($24.53) come out at the bottom, and rural fares($34.62) are on top. Similarly, with average fare per driver, the cost it highest in rural cities($55.49) and lowest in urban($16.57), this gap is quite large. 
  
 These findings suggest that overall engagement in rural communities is lower, and the rides that do occur come at a higher cost to the user. This increased fare could come as a result of the smaller number of drivers and subsequently reduced competition. It may also come as a result of the greater distances typically traversed in rural areas. 
  
